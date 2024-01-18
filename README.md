@@ -5,6 +5,7 @@
 - 💞️ I’m seeking apprenticeships, internships, and entry-level cybersecurity roles.
 - Current projects:
 -   https://github.com/evelynnmimijae/google-cybersecurity-professional-cert/
+-   https://github.com/evelynnmimijae/cyfrin-blockchain-dev-smart-contracts
 - 📫 How to reach me: https://msha.ke/evelynnmimijae
   
 
