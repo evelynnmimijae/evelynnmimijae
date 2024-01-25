@@ -3,9 +3,7 @@
 - 🌱 I’m currently working on the Google Cybersecurity Certification to prepare for the CompTIA Security+
 - 👩🏽‍🎓 and Also studying Smart Contract Auditing and Security (s/o to @Cyfrin)  
 - 💞️ I’m seeking apprenticeships, internships, and entry-level cybersecurity roles.
-- Current projects:
--   https://github.com/evelynnmimijae/google-cybersecurity-professional-cert/
--   https://github.com/evelynnmimijae/cyfrin-blockchain-dev-smart-contracts
+- Current projects are pinned. 
 - 📫 How to reach me: https://msha.ke/evelynnmimijae
   
 
