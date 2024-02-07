@@ -1,7 +1,8 @@
 - 👋🏽 Hi, I’m @evelynnmimijae
 - 🤓 I’m geeking on web3 and cybersecurity.
 -  I’m seeking apprenticeships, internships, and entry-level IT roles.
-- 📌 Current projects are pinned. 
+- 📌 Current projects are pinned.
+- I also have projects on Codepen https://codepen.io/evelynnmimijae
 - 📫 How to reach me: https://msha.ke/evelynnmimijae
   
 
